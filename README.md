@@ -8,3 +8,8 @@ Make sure you have marshmellow python library is installed.
 
 install requests.
 "pip install requests."
+
+
+How to run:
+Move to root directory.
+python TestService.py from command line.
